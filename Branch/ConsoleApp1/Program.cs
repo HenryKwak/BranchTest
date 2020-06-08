@@ -11,6 +11,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             var num1 = 1;
+            var num2 = 2;
         }
     }
 }
